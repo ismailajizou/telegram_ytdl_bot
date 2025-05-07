@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Downloaded files
+downloads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo 
